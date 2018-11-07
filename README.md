@@ -1,27 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-<title> WEB1-html </title>
-<mata charset="utf-8"> 
-</head>
-<body>
-<ol>
-<strong><u><li><h1>에베베베베베베에베베베에베베베</u></strong></h1></li>
-에베베베베-><img src="펭귄.jpg">
-</ol>
-<ol>
-<h2>에베베베베<h2>
-<li>에베베베베베베</li>
-<li>에베베베베베에베베</li>
-<li>에베베베베베베에베베베베</li>
-<li>에베베베베베에베베베에베베베</li>
-</ol>
-<h2>에베베베<h2>
-<ol>
-<li><a href="file:///C:/Users/won/Desktop/1.html">에베베베베베에베베베베베베</a></li>
-<li><a href="file:///C:/Users/won/Desktop/1.html">에베베베에베베베베베베에베베베베</a></li>
-<li><a href="file:///C:/Users/won/Desktop/1.html">에베베베에베베베에베베베베에베베베베</a></li>
-<li><a href="file:///C:/Users/won/Desktop/1.html">에베베베베베베베에베베베베베베베에베베베</a></li>
-</ol>
-</body>
-<html>
+<mata charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title> 컵타 </title>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kFsvlJTuMgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VWVDSYD0rI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MkdPk_6I64w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5W8Bw1n9rHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cmSbXsFE3l8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_28J07V-kaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</html>
